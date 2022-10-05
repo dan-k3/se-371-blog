@@ -1,1 +1,1 @@
-title: WIP
+title: "Development Blog"
