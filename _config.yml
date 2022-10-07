@@ -1,6 +1,7 @@
 title: SE 371 Blog
 markdown: kramdown
 theme: minima
+skin: auto
 author: Daniel Kogeni
 description: Personal blog used to document my progress throughout SE 371.
 date_format: "%b %-d, %Y"
