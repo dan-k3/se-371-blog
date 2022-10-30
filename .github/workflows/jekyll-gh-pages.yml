@@ -25,9 +25,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     
-    strategy:
-      matrix:
-        node-version: [16.x]
+    env:
+        using: 'node16'
+        pre: 'setup.js'
+        main: 'index.js'
+        post: 'cleanup.js'
     
     steps:
       - name: Checkout
