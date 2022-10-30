@@ -1,1 +1,1 @@
-ℹ️ What's new? Oktoberfest is going on. Prost!🍺
+ℹ️ What's new? Halloween 🎃 season is upon us. Boo! 👻
